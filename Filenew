@@ -1,1 +1,26 @@
 
+
+| Types d'attaque  | Attaques |
+| ------------- | ------------- |
+| **l'homme du milieu**  | detournement de session, usurpation d'IP, relecture  |
+| **DDos**  | TCP SYN flood, teardrop, Smurf, ping of death, botnet  |
+| **Phishing**  | email malveillant, liens  |
+| **Téléchargement furtif**  | logiciels malveillants  |
+| **Mot de passe**  | force brute, dictionnaire  |
+| **Injection SQL**  | commandes SQL  |
+| **XSS**  | Script malveillant  |
+| **Ecoute illicite**  | sondage, scanner, sabotage   |
+| **Logiciel malveillant**  | virus, cheval de troie, vers, ransomware, spyware, adware |
+| **téléchargement furtif**  | logiciels malveillants  |
+
+
+
+## les SGBD, extensions des fichiers et emplacement
+
+| SGBD  | extension des fichiers | dossier de stockage par défaut |
+| ------------- | ------------- | ------------- |
+| Oracle  | .dbf, .ctl  | /etc/dt/appconfig/types   |
+| SQL server  | .mdf, .ndf, .ldf | C:\Program Files\Microsoft SQL Server\MSSQL  |
+| MySQL  | .frm, .myd, .myi  | c:\Wamp\bin\mysql\mysql5. 7.13\data  |
+| Postresql  | .mkd  | c:\Program Files\PostgreSQL\[Version]\data  
+
