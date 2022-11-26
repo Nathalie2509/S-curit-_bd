@@ -24,3 +24,8 @@
 | MySQL  | .frm, .myd, .myi  | c:\Wamp\bin\mysql\mysql5. 7.13\data  |
 | Postresql  | .mkd  | c:\Program Files\PostgreSQL\[Version]\data  
 
+# ITSEC
+
+Les ITSEC définissent la politique de sécurité comme l'ensemble des lois
+Règles ou pratiques qui régissent la façon dont l'information sensible et les autres ressources 
+Sont gérées, protégées et distribuées à l'intérieur d'un système d'information.
